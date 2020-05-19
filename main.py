@@ -55,13 +55,3 @@ def main():
     
 
 main()
-
-
-# issues to fix 
-# 1 - error checking. prevent invalid selections and ask for another input (done)
-# 2- victory checking doesn't work, fix that (done)
-# 3 - design a nice start screen (done)
-# 4 - refactor into multiple functions? possibly unneccesary
-# 5 - write unit tests?
-# 6- perform own testing - try to break the game
-# 6 - AI with 3 difficulty settings (long run goal)
